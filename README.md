@@ -1,2 +1,2 @@
 # Computer_Vision
-CV code implementations by me 
+CV code implementations 
